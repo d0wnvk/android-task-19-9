@@ -13,7 +13,7 @@
         android:gravity="center"
         android:orientation="vertical">
 
-        <!-- upper frame for menu-->
+        <!-- upper frame for menu -->
         <FrameLayout
             android:layout_width="427dp"
             android:layout_height="wrap_content"
